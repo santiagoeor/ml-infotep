@@ -20,6 +20,8 @@ Use `git status` para ver la rama actual.
 
 Use `git push origin new-branch-name` para crear la nueva rama en el repositorio remoto
 
+Use `git branch --set-upstream-to=origin/main new-branch-name` para hacer seguimiento a la rama main desde su rama
+
 User `git push`
 
 Por favor cualquier duda puede ser remitida al correo [jrudascas@gmail.com](jrudascas@gmail.com).
