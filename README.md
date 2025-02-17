@@ -18,6 +18,8 @@ Use `git checkout -b new-branch-name` para crear una nueva rama.
 
 Use `git status` para ver la rama actual.
 
+Use `git push origin new-branch-name` para crear la nueva rama en el repositorio remoto
+
 User `git push`
 
 Por favor cualquier duda puede ser remitida al correo [jrudascas@gmail.com](jrudascas@gmail.com).
