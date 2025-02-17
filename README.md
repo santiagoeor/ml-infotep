@@ -6,7 +6,7 @@ Los entregables del curso deberán enviarse a traves de este repositorio de GitH
 git clone https://github.com/jrudascas/ml-infotep.git
 ```
 
-Comandos utiles:
+*Comandos utiles en git:*
 
 Use `git add .` para crear un archivo versionable nuevo.
 
@@ -21,5 +21,13 @@ Use `git status` para ver la rama actual.
 Use `git push origin new-branch-name` para crear la nueva rama en el repositorio remoto
 
 User `git push`
+
+
+
+*Plantilla de informes*
+
+```
+https://www.overleaf.com/latex/templates/template-for-nonlinear-analysis-modelling-and-control/jdhqdcxsrqqt
+```
 
 Por favor cualquier duda puede ser remitida al correo [jrudascas@gmail.com](jrudascas@gmail.com).
