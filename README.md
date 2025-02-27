@@ -45,6 +45,9 @@ NOTA: Estos tutoriales son solo una guía. El manejo de herramientas hace parte 
 - [Lectura sugerida # 1 - Buenas practicas en el uso de libros de Jupyter Notebooks](https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1007007&type=printable)
 
 
+## Recursos
+[Imagen1 - Mancha](https://profecaevp.wordpress.com/wp-content/uploads/2015/04/mancha_png_by_ona_smile-d5tmk7x.png)
+
 ## Plantilla de informes
 
 ```
