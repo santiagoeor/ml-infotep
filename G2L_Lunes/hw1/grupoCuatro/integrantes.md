@@ -1,5 +1,5 @@
 # Integrantes
 
 - Robert Junior López Oviedo
-- Dayanna Montes
+- Dayanna Montes Gómez
 - Santiago Orozco Carmona
