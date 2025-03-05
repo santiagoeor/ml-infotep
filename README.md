@@ -43,10 +43,12 @@ NOTA: Estos tutoriales son solo una guía. El manejo de herramientas hace parte 
 ## Lecturas sugeridas
 
 - [Lectura sugerida # 1 - Buenas practicas en el uso de libros de Jupyter Notebooks](https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1007007&type=printable)
-
+- [Impacto de la IA Generativa en el pensamiento critico](https://drive.google.com/file/d/1w20STqksV6vM4cs3-SnHdftBfOeGqd9G/view?usp=sharing)
 
 ## Recursos
-[Imagen1 - Mancha](https://profecaevp.wordpress.com/wp-content/uploads/2015/04/mancha_png_by_ona_smile-d5tmk7x.png)
+- [Imagen1 - Mancha](https://profecaevp.wordpress.com/wp-content/uploads/2015/04/mancha_png_by_ona_smile-d5tmk7x.png)
+- [Datasets](https://drive.google.com/drive/folders/1azpP0yuBf7cXi7gFAL8oHNxmoEpT4yRB?usp=sharing)
+
 
 ## Plantilla de informes
 
