@@ -33,21 +33,32 @@ User `git push`
 - [Google Codelaboratory](https://www.youtube.com/watch?v=ZwtDVIVB58A)
 - [Python para manipulación de datos - I](https://www.youtube.com/watch?v=ox09Jko1ErM&list=PLGBbVX_WvN7bMwYe7wWV5TZt1a58jTggB)
 - [Python para manipulación de datos - II](https://www.youtube.com/watch?v=nYtNq2D-new&list=PLGBbVX_WvN7as_DnOGcpkSsUyXB1G_wqb)
-
-
+- [Pandas para Ciencias de Datos](https://www.youtube.com/watch?v=2KCQQHpi2Qk&list=PLg9145ptuAig5cwvUCn9FNSUJyXBiFcVg)
 ```
 NOTA: Estos tutoriales son solo una guía. El manejo de herramientas hace parte de su formación autonoma. Se recomienda ahondar en cada herramienta tan profundo como le sea posible.
 ```
 
 
-## Lecturas sugeridas
+## Guias del curso
+- [Mathematics for Machine Learning](https://mml-book.github.io/book/mml-book.pdf)
+- [K-means](https://www.geeksforgeeks.org/k-means-clustering-introduction/)
+- [PCA]()
+- [Regresiones Lineales]()
+- [Arboles de decisión]()
+- [kNN]()
+- [Supper Vector Machine]()
+- [Aprendizaje profundo - Redes Neuronales Convolucionales]()
 
+
+## Lecturas sugeridas
 - [Lectura sugerida # 1 - Buenas practicas en el uso de libros de Jupyter Notebooks](https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1007007&type=printable)
 - [Impacto de la IA Generativa en el pensamiento critico](https://drive.google.com/file/d/1w20STqksV6vM4cs3-SnHdftBfOeGqd9G/view?usp=sharing)
 
+
 ## Recursos
 - [Imagen1 - Mancha](https://profecaevp.wordpress.com/wp-content/uploads/2015/04/mancha_png_by_ona_smile-d5tmk7x.png)
-- [Datasets](https://drive.google.com/drive/folders/1azpP0yuBf7cXi7gFAL8oHNxmoEpT4yRB?usp=sharing)
+- [Datasets](https://github.com/jrudascas/ml-infotep/tree/main/Datasets)
+- [Ejemplos](https://github.com/jrudascas/ml-infotep/tree/main/Examples)
 
 
 ## Plantilla de informes
